@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/hadjer-mohabeddine-962231156/**
 
-- 📄 Know about my experiences [blabla.com](blabla.com)
+<!-- - 📄 Know about my experiences [blabla.com](blabla.com)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
