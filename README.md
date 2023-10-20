@@ -13,13 +13,13 @@
 
 - 💬 Ask me about **computer vision, YoloV5, Web Development (Django, HTML/CSS, JavaScript, Bootstrap) and Webscrapting (Scrapy, BeautifullSoup)**
 
-- 📫 How to reach me **https://www.linkedin.com/in/hadjer-mohabeddine-962231156/**
+- 📫 How to reach me **https://www.linkedin.com/in/hadjer-mohabeddine/**
 
 <!-- - 📄 Know about my experiences [blabla.com](blabla.com)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hadjer-mohabeddine-962231156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadjer-mohabeddine-962231156" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hadjer-mohabeddine/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadjer-mohabeddine-962231156" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
